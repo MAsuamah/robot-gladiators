@@ -13,7 +13,7 @@ After you enter your name, you will begin your battle round and will be given th
 ### Visit the Store
 After each battle you will be given a chance to visit the store where you can refill your health, upgrade your attack, or continue on to the next battle.
 
-### Fight to the Death
+### Fight Until Defeat
 
 The game will continue on until you beat all three rounds or have zero health.
 
