@@ -39,7 +39,7 @@ var startGame = function() {
     }
     // if player is not alive, break out of the loop and let endGame function run
     else {
-      break;
+      ;
     }
   }
 
@@ -215,13 +215,6 @@ var shop = function() {
       shop();
       break;
   }
-};
-
-// function to generate a random numeric value
-var randomNumber = function(min, max) {
-  var value = Math.floor(Math.random() * (max - min) + min);
-
-  return value;
 };
 
 // function to generate a random numeric value
